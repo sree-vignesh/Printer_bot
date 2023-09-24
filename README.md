@@ -1,3 +1,3 @@
 # Printer_bot
 
-A idea to automate college printer shop's process.
+An idea to automate college printer shop's process.
